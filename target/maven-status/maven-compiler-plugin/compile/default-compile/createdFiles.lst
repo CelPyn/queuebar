@@ -1,0 +1,5 @@
+com\livelypower\queuebar\domain\Drinkable.class
+com\livelypower\queuebar\domain\Edible.class
+com\livelypower\queuebar\domain\Order.class
+com\livelypower\queuebar\domain\Product.class
+com\livelypower\queuebar\domain\FoodType.class
